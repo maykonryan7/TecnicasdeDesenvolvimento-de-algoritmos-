@@ -4,6 +4,8 @@
 > Repositório com exercícios, projetos e materiais do curso de Técnicas de Programação.
 
 ---
+## 🎯 Objetivo
+Organizar e disponibilizar os exercícios, projetos e demais materiais produzidos ao longo da disciplina, com foco no desenvolvimento de habilidades práticas de programação.
 
 ## 📚 Sobre o Curso
 
@@ -12,12 +14,14 @@ O curso de **Técnicas de Programação** tem como objetivo desenvolver habilida
 ---
 
 ## 📂 Conteúdo do Repositório
+ conteúdo está organizado por temas ou semanas, conforme o cronograma da disciplina:
 
-- 📝 Exercícios de lógica de programação  
-- 💻 Algoritmos implementados em diversas linguagens (Python, Java, C, etc.)  
-- 🚧 Projetos práticos aplicando conceitos do curso  
-- 📖 Material de estudo e referências
-
+✅ Estruturas de decisão e repetição
+✅ Funções e modularização
+✅ Manipulação de arquivos
+✅ Estruturas de dados básicas (listas, pilhas, filas)
+✅ Programação orientada a objetos
+✅ Projetos práticos e desafios
 ---
 
 ## ⚙️ Como usar este repositório
